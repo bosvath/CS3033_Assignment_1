@@ -1,0 +1,14 @@
+C:\School\CS3033\Assessments\CS3033_Assessment_51982209\Task3\Task3\bin\Debug\netcoreapp3.1\Task3.exe
+C:\School\CS3033\Assessments\CS3033_Assessment_51982209\Task3\Task3\bin\Debug\netcoreapp3.1\Task3.deps.json
+C:\School\CS3033\Assessments\CS3033_Assessment_51982209\Task3\Task3\bin\Debug\netcoreapp3.1\Task3.runtimeconfig.json
+C:\School\CS3033\Assessments\CS3033_Assessment_51982209\Task3\Task3\bin\Debug\netcoreapp3.1\Task3.runtimeconfig.dev.json
+C:\School\CS3033\Assessments\CS3033_Assessment_51982209\Task3\Task3\bin\Debug\netcoreapp3.1\Task3.dll
+C:\School\CS3033\Assessments\CS3033_Assessment_51982209\Task3\Task3\bin\Debug\netcoreapp3.1\Task3.pdb
+C:\School\CS3033\Assessments\CS3033_Assessment_51982209\Task3\Task3\obj\Debug\netcoreapp3.1\Task3.csproj.AssemblyReference.cache
+C:\School\CS3033\Assessments\CS3033_Assessment_51982209\Task3\Task3\obj\Debug\netcoreapp3.1\Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\School\CS3033\Assessments\CS3033_Assessment_51982209\Task3\Task3\obj\Debug\netcoreapp3.1\Task3.AssemblyInfoInputs.cache
+C:\School\CS3033\Assessments\CS3033_Assessment_51982209\Task3\Task3\obj\Debug\netcoreapp3.1\Task3.AssemblyInfo.cs
+C:\School\CS3033\Assessments\CS3033_Assessment_51982209\Task3\Task3\obj\Debug\netcoreapp3.1\Task3.csproj.CoreCompileInputs.cache
+C:\School\CS3033\Assessments\CS3033_Assessment_51982209\Task3\Task3\obj\Debug\netcoreapp3.1\Task3.dll
+C:\School\CS3033\Assessments\CS3033_Assessment_51982209\Task3\Task3\obj\Debug\netcoreapp3.1\Task3.pdb
+C:\School\CS3033\Assessments\CS3033_Assessment_51982209\Task3\Task3\obj\Debug\netcoreapp3.1\Task3.genruntimeconfig.cache
